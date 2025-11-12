@@ -5,7 +5,6 @@
 ![Riverpod](https://img.shields.io/badge/Riverpod-40C4FF?style=for-the-badge&logo=riverpod&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=hive&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Build](https://github.com/Adiwijaya76/contact-keeper/actions/workflows/flutter.yml/badge.svg)
 
 ---
 
